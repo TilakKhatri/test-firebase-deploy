@@ -30,4 +30,5 @@ Follow following steps:
 ### Project Setup
 First, let's associate this project directory with a Firebase project.
 You can create multiple project aliases by running firebase use --add,
-but for now we'll just set up a default project.     
+but for now we'll just set up a default project.  
+### Comming soon.
